@@ -1,0 +1,5 @@
+Pandu:Yudhishthira,Bhima,Arjuna,Nakula,Sahadeva
+Yudhishthira:Prativindhya
+Bhima:Sutasoma
+Arjuna:Abhimanyu
+Abhimanyu:Parikshit
